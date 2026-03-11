@@ -1,5 +1,5 @@
 const presence = new Presence({
-  clientId: "1460363090981031997" // Client ID de MuffyBot
+  clientId: "CLIENT_ID" // Votre Client ID
 });
 
 const browsingTimestamp = Math.floor(Date.now() / 1000);
