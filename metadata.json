@@ -2,8 +2,8 @@
   "$schema": "https://schemas.premid.app/metadata/1.16",
   "apiVersion": 1,
   "author": {
-    "id": "1424064908244422668",
-    "name": "Muffy"
+    "id": "ID_DISCORD_USER",
+    "name": "DISCORD_USERNAME"
   },
   "service": "Vikidia",
   "description": {
